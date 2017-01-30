@@ -343,7 +343,7 @@ WriteMakefile(
     AUTHOR       => '%s (%s)',
     ABSTRACT     => '%s',
     PREREQ_PM    => {
-                     'Test::Simple' => 0.44,
+                     'Test::Simple' => '0.44',
                     },
 );
 ~;
